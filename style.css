@@ -1,0 +1,36 @@
+body
+{
+  color: linear-gradient(red, orange, yellow, green, blue);
+  background: linear-gradient(red, orange, yellow, green, blue);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed red;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: linear-gradient(blue,green,orange,red);
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 40px;
+  border-radius: 20px;
+letter-spacing: 10px;
+}
+label{
+  font-size: 20px;
+
+  background-color: linear-gradient(blue,green,orange,red);
+}
